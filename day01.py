@@ -1,3 +1,4 @@
+# https://adventofcode.com/2021/day/1
 report = open("input").readlines()
 
 previous = 0
